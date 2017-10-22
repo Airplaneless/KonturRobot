@@ -1,0 +1,16 @@
+C:\Users\airplaneless\Projects\somestuff\KonturRobot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\airplaneless\Projects\somestuff\KonturRobot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\exercises.pdb
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\nunit.framework.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\obj\Debug\exercises.pdb
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\nunit.engine.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\nunit.engine.api.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\Mono.Cecil.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\bin\Debug\exercises.exe
+C:\Users\airplaneless\source\repos\somestuff\KonturRobot\obj\Debug\exercises.exe
